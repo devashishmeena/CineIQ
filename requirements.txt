@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+plotly
+scikit-learn
+pandas
+numpy
+vaderSentiment
+transformers
+torch
+mlflow
+pydantic
+python-multipart
+kagglehub
