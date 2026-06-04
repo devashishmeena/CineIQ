@@ -1,4 +1,4 @@
-#  CineIQ: AI-Powered Hybrid Recommendation Engine
+#   CineIQ: AI-Powered Hybrid Recommendation Engine
 
 CineIQ is a hyper-personalized hybrid movie recommendation engine that combines Collaborative Filtering (SVD), Content-Based Filtering (TF-IDF), and algorithmic transparency to deliver accurate and explainable movie suggestions.
 
