@@ -1,4 +1,4 @@
-#   CineIQ: AI-Powered Hybrid Recommendation Engine
+#  CineIQ: AI-Powered Hybrid Recommendation Engine
 
 CineIQ is a hyper-personalized hybrid movie recommendation engine that combines Collaborative Filtering (SVD), Content-Based Filtering (TF-IDF), and algorithmic transparency to deliver accurate and explainable movie suggestions.
 
@@ -7,7 +7,7 @@ CineIQ is a hyper-personalized hybrid movie recommendation engine that combines 
 * **Algorithmic Transparency**: Interactive visualizations explaining *why* a movie was recommended.
 * **Premium Dashboard**: A sleek, dark-mode web application built with Streamlit and Plotly.
 * **MLflow Tracking**: Experiment tracking for tuning SVD hyperparameters.
-  
+ 
 ## Tech Stack
 * **Backend Models**: Scikit-Learn (TruncatedSVD, TfidfVectorizer)
 * **Frontend**: Streamlit, Plotly, Custom CSS (Glassmorphism)
